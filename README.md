@@ -2,7 +2,7 @@
 
 to have fun during weekend while testing Google Translator (https://translate.google.com) functionalities.
 
-I decided to use Puppeteer/Mocha/Chai stack for imlementation in order to prove that i can quickly learn/adapt to new technologies. I am aware it is not the most elegant solution and it is far far away from best practices, but it wasn't easy to built everything from scratch. My focus was to make it work first and it took me more time than i expected :blush: 
+I decided to use Puppeteer/Mocha/Chai stack for imlementation in order to prove that i can quickly learn/adapt to new technologies. I am aware it is not the most elegant solution and it is far far away from best practices, but it wasn't easy to built everything from scratch.
 
 Areas for improvements:
 - separate locators, constants, common functions and data inputs into separate files
