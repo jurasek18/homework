@@ -1,0 +1,16 @@
+{
+    "name": "citrix-interview-task",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "mocha --timeout 10000 --reporter mochawesome",
+        "single-test": "mocha --timeout 10000 --reporter mochawesome ./test/bootstrap.js"
+    },
+    "dependencies": {
+        "chai": "4.2.0",
+        "lodash": "4.17.15",
+        "mocha": "7.0.0",
+        "mochawesome": "4.1.0",
+        "puppeteer": "2.0.0"
+    },
+    "author": "Juraj Koutny"
+}
