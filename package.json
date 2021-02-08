@@ -6,11 +6,11 @@
         "single-test": "mocha --timeout 10000 --reporter mochawesome ./test/bootstrap.js"
     },
     "dependencies": {
-        "chai": "4.2.0",
+        "chai": "^4.3.0",
         "lodash": "4.17.19",
-        "mocha": "7.0.0",
-        "mochawesome": "4.1.0",
-        "puppeteer": "2.0.0"
+        "mocha": "^8.2.1",
+        "mochawesome": "^6.2.1",
+        "puppeteer": "^7.0.1"
     },
     "author": "Juraj Koutny"
 }
