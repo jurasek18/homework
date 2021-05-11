@@ -7,7 +7,7 @@
     },
     "dependencies": {
         "chai": "^4.3.0",
-        "lodash": "4.17.19",
+        "lodash": "4.17.21",
         "mocha": "^8.2.1",
         "mochawesome": "^6.2.1",
         "puppeteer": "^7.0.1"
